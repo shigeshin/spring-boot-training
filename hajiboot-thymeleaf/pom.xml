@@ -75,14 +75,4 @@
     <java.version>1.8</java.version>
     <h2.version>1.4.182</h2.version>
   </properties>
-
-  <repositories>
-    <repository>
-      <id>com.nablarch.archetype</id>
-      <url>http://nablarch.intra.tis.co.jp:8081/artifactory/release</url>
-      <releases>
-        <enabled>true</enabled>
-      </releases>
-    </repository>
-  </repositories>
 </project>
